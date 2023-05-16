@@ -15,4 +15,4 @@
 
 ## Используемые библиотеки
 
-*pandas numpy scipy pingouin statsmodels random matplotlib seaborn* 
+*pandas, numpy, scipy, pingouin, statsmodels, random, matplotlib, seaborn* 
