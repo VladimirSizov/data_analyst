@@ -30,4 +30,4 @@ weekday_pct – процент поездок пользователя, сове
 
 ## Используемые библиотеки
 
-*pandas numpy pingouin scipy scikit_posthocs seaborn* 
+*pandas, numpy, pingouin, scipy, scikit_posthocs, seaborn* 
