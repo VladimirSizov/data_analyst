@@ -4,13 +4,14 @@
 ## Основные инструменты и навыки, полученные при обучении:
 
 - Языки: Python, SQL(PostgreSQL, ClickHouse)
-- Анализ данных: библиотеки Pandas, NumPy, SciPy, Pingouin, StatsModels
+- Анализ данных: Pandas, NumPy, SciPy, Pingouin, StatsModels, FbProphet, SkLearn
 - Визуализация: Matplotlib, Plotly, Seaborn
 - Построение дашбордов: Tableau, DataLens
 - Метрики юнит-экономики, когортный анализ
-- Анализ результатов A/B тестов
 - Работа с гипотезами
-- Машинное обучение: библиотеки: FbProphet
+- Анализ результатов A/B тестов
+
+
 
 ## Проекты:
 | №| Название и ссылка | О чем проект                                                     | Навыки и инструменты           |  
