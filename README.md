@@ -1,16 +1,7 @@
 ## Описание:
 В репозитории представлены проекты курса [Аналитик данных](https://karpov.courses/analytics) (Karpov.Courses)
 
-## Основные инструменты и навыки, полученные при обучении:
-- Языки: Python, SQL(PostgreSQL, ClickHouse), Bash
-- Анализ данных: Pandas, NumPy, SciPy, Pingouin, StatsModels, FbProphet, SkLearn
-- Визуализация: Matplotlib, Plotly, Seaborn
-- Построение дашбордов: Tableau, DataLens
-- Метрики юнит-экономики, когортный анализ
-- Работа с гипотезами
-- Анализ результатов A/B тестов
-
-## Научился
+## В процессе обучения получил навыки:
 Составлять сложные SQL запросы (оконные функции, подзапросы, join-ы)  
 Считать продуктовые метрики (ARPPU, CPAcq, CAC, ROMI)  
 Считать retention rate  
@@ -22,7 +13,14 @@
 Выявлять наиболее эффективные каналы маркетинга  
 Предсказывать churn rate по проксиметрикам  
 Кластеризовать пользователей  
-Создавать даги в Airflow
+
+Работа с гипотезами
+
+## Основные инструменты в работе:
+- Языки: Python, SQL(PostgreSQL, ClickHouse), Bash
+- Библиотеки: Pandas, NumPy, SciPy, Pingouin, StatsModels, FbProphet, SkLearn, Matplotlib, Seaborn
+- дашборды: Tableau, DataLens
+- Airflow
 
 ## Проекты:
 | №| Название и ссылка | О чем проект                                                     | Навыки и инструменты           |  
