@@ -26,7 +26,7 @@
 Языки: Python, SQL(PostgreSQL, ClickHouse), Bash  
 Библиотеки: Pandas, NumPy, SciPy, Pingouin, StatsModels, FbProphet, SkLearn, Matplotlib, Seaborn  
 Дашборды: Tableau, DataLens  
-Airflow  
+GitLab, Airflow  
 
 ### Проекты:
 | №| Название и ссылка | О чем проект                                                     | Навыки и инструменты           |  
