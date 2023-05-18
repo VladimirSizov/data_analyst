@@ -31,7 +31,7 @@ GitLab, Airflow
 
 ### Инструменты:  
 Языки: Python, SQL(PostgreSQL, ClickHouse), Bash  
-Библиотеки: Pandas, NumPy, SciPy, Pingouin, StatsModels, FbProphet, SkLearn, Matplotlib, Seaborn, PandaHouse
+Библиотеки: Pandas, NumPy, SciPy, Pingouin, StatsModels, FbProphet, SkLearn, Matplotlib, Seaborn, PandaHouse  
 Дашборды: Tableau, DataLens  
 
 ### Проекты:
