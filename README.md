@@ -2,7 +2,7 @@
 
 ### В процессе обучения получил навыки:
 Составлять сложные SQL запросы (оконные функции, подзапросы, join-ы)  
-Обращаться по API в (Telegram, VK, Google Sheets)
+Обращаться по API в (Telegram, VK, Google Sheets)  
 Считать продуктовые метрики (DAU, stick factor, средний чек, CR1, ARPPU, CPAcq, LTV, CAC, ROMI)  
 Считать retention rate  
 Проводить когортный анализ  
