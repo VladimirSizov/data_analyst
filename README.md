@@ -9,7 +9,7 @@
 Обращаться по API в (Telegram, VK, Google Sheets)  
 GitLab, Airflow  
 
-### 
+### Практиковал в проектах:
 EDA  
 Считать продуктовые метрики (DAU, stick factor, средний чек, CR1, ARPPU, CPAcq, LTV, CAC, ROMI)  
 Считать retention rate  
