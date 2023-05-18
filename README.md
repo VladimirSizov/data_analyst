@@ -13,17 +13,17 @@
 Кластеризовать пользователей  
 
 ### Использовать статистические методы:  
-Определять эффекты изменений (t-test, ранговые тесты, диспесионный анализ, линейная регрессия)
-Искать закономерности в данных, прогнозирование (LogisticRegression, RandomForest, FbProphet)
+Определять эффекты изменений (t-test, ранговые тесты, диспесионный анализ, линейная регрессия)  
+Искать закономерности в данных, прогнозирование (LogisticRegression, RandomForest, FbProphet)  
 
 ### 
 Работать с гипотезами
 
-### Инструменты:
-Языки: Python, SQL(PostgreSQL, ClickHouse), Bash
-Библиотеки: Pandas, NumPy, SciPy, Pingouin, StatsModels, FbProphet, SkLearn, Matplotlib, Seaborn
-Дашборды: Tableau, DataLens
-Airflow
+### Инструменты:  
+Языки: Python, SQL(PostgreSQL, ClickHouse), Bash  
+Библиотеки: Pandas, NumPy, SciPy, Pingouin, StatsModels, FbProphet, SkLearn, Matplotlib, Seaborn  
+Дашборды: Tableau, DataLens  
+Airflow  
 
 ### Проекты:
 | №| Название и ссылка | О чем проект                                                     | Навыки и инструменты           |  
