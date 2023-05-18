@@ -1,8 +1,6 @@
 ## В репозитории представлены проекты курса [Аналитик данных](https://karpov.courses/analytics) Karpov.Courses
 
 ### В процессе обучения получил навыки:
-Составлять сложные SQL запросы (оконные функции, подзапросы, join-ы)  
-Обращаться по API в (Telegram, VK, Google Sheets)  
 Считать продуктовые метрики (DAU, stick factor, средний чек, CR1, ARPPU, CPAcq, LTV, CAC, ROMI)  
 Считать retention rate  
 Проводить когортный анализ  
@@ -26,11 +24,15 @@ EDA
 Строить графики и разрабатывать дашборды
 Знаю основы математической статистики и теории вероятности
 
+###
+Составлять сложные SQL запросы (оконные функции, подзапросы, join-ы)  
+Обращаться по API в (Telegram, VK, Google Sheets)  
+GitLab, Airflow  
+
 ### Инструменты:  
 Языки: Python, SQL(PostgreSQL, ClickHouse), Bash  
 Библиотеки: Pandas, NumPy, SciPy, Pingouin, StatsModels, FbProphet, SkLearn, Matplotlib, Seaborn, PandaHouse
 Дашборды: Tableau, DataLens  
-GitLab, Airflow  
 
 ### Проекты:
 | №| Название и ссылка | О чем проект                                                     | Навыки и инструменты           |  
