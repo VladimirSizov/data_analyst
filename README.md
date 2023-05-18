@@ -3,7 +3,7 @@
 
 ## Основные инструменты и навыки, полученные при обучении:
 
-- Языки: Python, SQL(PostgreSQL, ClickHouse)
+- Языки: Python, SQL(PostgreSQL, ClickHouse), Bash
 - Анализ данных: Pandas, NumPy, SciPy, Pingouin, StatsModels, FbProphet, SkLearn
 - Визуализация: Matplotlib, Plotly, Seaborn
 - Построение дашбордов: Tableau, DataLens
