@@ -2,6 +2,7 @@
 
 ### В процессе обучения получил навыки:
 Составлять сложные SQL запросы (оконные функции, подзапросы, join-ы)  
+Обращаться по API в (Telegram, VK, Google Sheets)
 Считать продуктовые метрики (DAU, stick factor, средний чек, CR1, ARPPU, CPAcq, LTV, CAC, ROMI)  
 Считать retention rate  
 Проводить когортный анализ  
@@ -27,7 +28,7 @@ EDA
 
 ### Инструменты:  
 Языки: Python, SQL(PostgreSQL, ClickHouse), Bash  
-Библиотеки: Pandas, NumPy, SciPy, Pingouin, StatsModels, FbProphet, SkLearn, Matplotlib, Seaborn  
+Библиотеки: Pandas, NumPy, SciPy, Pingouin, StatsModels, FbProphet, SkLearn, Matplotlib, Seaborn, PandaHouse
 Дашборды: Tableau, DataLens  
 GitLab, Airflow  
 
