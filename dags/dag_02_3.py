@@ -10,7 +10,6 @@ TOP_1M_DOMAINS = 'http://s3.amazonaws.com/alexa-static/top-1m.csv.zip'
 TOP_1M_DOMAINS_FILE = 'top-1m.csv'
 
 def get_data():
-    # Здесь пока оставили запись в файл, как передавать переменую между тасками будет в третьем уроке
     top_doms = pd.read_csv(TOP_1M_DOMAINS)
     top_data = top_doms.to_csv(index=False)
 
@@ -102,7 +101,3 @@ t3 = PythonOperator(task_id='print_data',
 
 t1 >> [t2_1, t2_2, t2_3] >> t3
 
-#t1.set_downstream(t2)
-#t1.set_downstream(t2_com)
-#t2.set_downstream(t3)
-#t2_com.set_downstream(t3)
