@@ -1,13 +1,34 @@
-# 
+# Сбор данных из открытых источников 
 
 ## Задача 
+Это пример некоторых методов получения данных из Google Trends и записи в собственную БД sqlite3
 
 
-
-## Данные
-
+## Файлы
+db.sqlite - БД
+db_connect.py - подключение к БД
+create_tables.py - разметка таблиц при создании БД
+db_query.py - типовые SQL запросы
+db_update.py - методы добавления данных в БД
+pseudo_api.py - методы получения данных из google trends
+execute.py - сценарий загрузки данных и записи лога
+log.txt - лог отработки сценария
   
+## Настройка
+Сперва необходимо создать рабочее окружение, для успешного запуска сценариев.
+Я это сделал через создание нового проекта в PyCharm.
+
+Для автозапуска сценариев необходимо настроить crontab.
+Например у меня это выглядит так:
+*/20 * * * * source /Users/vladimirsizov/Documents/PET_PROJECTS/GOOGLE_TRENDS/env/bookmarks/bin/activate && python /Users/vladimirsizov/Documents/PET_PROJECTS/GOOGLE_TRENDS/execute.py >/dev/null 2>&1
+
+Если вы используете mac - разрешите системе доступ к изменению файлов на диске (иначе crontab не выполнит задачу):
+настройки/защита и безопасность/доступ к диску
+1. click the + button
+2. hit ⌘⇧G
+3. enter /usr/sbin
+4. double click the cron file.
 
 ## Используемые библиотеки
 
-** 
+*pytrends sqlite3 pandas datetime zoneinfo re* 
