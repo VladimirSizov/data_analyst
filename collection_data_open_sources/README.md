@@ -18,12 +18,12 @@ log.txt - лог отработки сценария
 Сперва необходимо создать рабочее окружение, для успешного запуска сценариев.  
 Я это сделал через создание нового проекта в PyCharm.  
 
-В виртуальном окружении установить необходимые библиотеки:
-pytrends
-sqlite3
-pandas
-datetime
-zoneinfo
+В виртуальном окружении установить необходимые библиотеки:  
+pytrends  
+sqlite3  
+pandas  
+datetime  
+zoneinfo  
 re
 
 Поместить файлы из этого репозитория в папку с окружением.
@@ -32,10 +32,12 @@ re
 
 ## Настройка автозапуска
 
-Для автозапуска сценариев необходимо настроить crontab.
-Например у меня это выглядит так:
-*/20 * * * * source /Users/vladimirsizov/Documents/PET_PROJECTS/GOOGLE_TRENDS/env/bookmarks/bin/activate && python /Users/vladimirsizov/Documents/PET_PROJECTS/GOOGLE_TRENDS/execute.py >/dev/null 2>&1
-sourse - указывает путь к окружению, которое подтянет библиотеки и рабочую версию python.
+Для автозапуска сценариев необходимо настроить crontab.  
+Например у меня это выглядит так:  
+*/20 * * * * source /Users/vladimirsizov/Documents/PET_PROJECTS/GOOGLE_TRENDS/env/bookmarks/bin/activate && python /Users/vladimirsizov/Documents/PET_PROJECTS/GOOGLE_TRENDS/execute.py >/dev/null 2>&1  
+sourse - указывает путь к окружению, которое будет запущено с рабочей версией python и необходимыми библиотеками.  
+&& python - сообщает что с помощью запущеного python  нужно выполнить файл по определённому пути.  
+>/dev/null 2>&1 - отключает уведомления на email
 
 Если вы используете mac - разрешите системе доступ к изменению файлов на диске (иначе crontab не выполнит задачу):
 настройки/защита и безопасность/доступ к диску
