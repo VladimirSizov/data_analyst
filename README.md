@@ -23,6 +23,8 @@
 Библиотеки: Pandas, NumPy, SciPy, Pingouin, StatsModels, FbProphet, SkLearn, Matplotlib, Seaborn, PandaHouse  
 Дашборды: Tableau, DataLens  
 
+![-](https://github.com/VladimirSizov/data_analyst/blob/main/sertificat_rus.jpg)
+
 ### Проекты:
 | №| Название и ссылка | О чем проект                                                     | Библиотеки           |  
 |-----------|-------------------|------------------------------------------------------------------|-----------------------------------|
