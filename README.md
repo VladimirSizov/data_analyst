@@ -1,8 +1,7 @@
 ### В репозитории представлены:
-### - тестовые проекты
-### - проекты [курс Аналитик данных](https://karpov.courses/analytics) Karpov.Courses
-### - SQL запросы [курс Симулятор SQL](https://karpov.courses/simulator-sql) Karpov.Courses
-<hr>
+- тестовые проекты
+- проекты [курс Аналитик данных](https://karpov.courses/analytics) Karpov.Courses
+- SQL запросы [курс Симулятор SQL](https://karpov.courses/simulator-sql) Karpov.Courses
 
 ### Практиковал:
 Проверять результаты A/A, A/B и A/B/C тестов.   
